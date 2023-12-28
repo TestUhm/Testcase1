@@ -5,7 +5,7 @@ ___
 MYCLE
 > 차량을 관리할 수 있는 앱
 
-[![1](https://github.com/TestUhm/Testcase1/assets/154364394/1e17cede-6475-4e03-b9a6-a40127af9b0b)](https://mycle.co.kr/)
+[![1](https://github.com/TestUhm/Testcase1/assets/154364394/1e17cede-6475-4e03-b9a6-a40127af9b0b.png)](https://mycle.co.kr/)
 
 
 <br/>
@@ -55,7 +55,7 @@ MYCLE
 
 # 4. 테스트 진행
 
-[![1](https://github.com/TestUhm/Testcase1/assets/154364394/6cc14b3b-33f8-4819-a7e6-1f6fe0e41b7d.png)](https://docs.google.com/spreadsheets/d/12sLQMDEUuU9e9TURRgcy3NTbxH1CY_6oO4BnkGtvbO8/edit?usp=sharing)<br/>
+[![3](https://github.com/TestUhm/Testcase1/assets/154364394/6cc14b3b-33f8-4819-a7e6-1f6fe0e41b7d.png)](https://docs.google.com/spreadsheets/d/12sLQMDEUuU9e9TURRgcy3NTbxH1CY_6oO4BnkGtvbO8/edit?usp=sharing)<br/>
 ( ↑ 이미지를 클릭하여 자세히 보기 )
 
 
