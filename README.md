@@ -2,7 +2,7 @@
 ___
 
 # 1. 테스트 대상
-Mycle
+MYCLE
 > 차량을 관리할 수 있는 앱
 
 [![1](https://github.com/TestUhm/Testcase1/assets/154364394/1e17cede-6475-4e03-b9a6-a40127af9b0b)](https://mycle.co.kr/)
